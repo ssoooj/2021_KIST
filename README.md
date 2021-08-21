@@ -1,4 +1,4 @@
-# Brief Report on Computational Neuroscience in KIST 2021
+# Computational Neuroscience in KIST 2021
 <br/>
 
 ### Poisson Spike Train with Matlab
